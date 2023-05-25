@@ -1,0 +1,30 @@
+.test_image_and_result {
+    border-radius: 20px;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right: 5px
+}
+
+.output_tags {
+    font-size: 20px;
+    font-family: algerian;
+}
+
+.conclusion {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.images {
+    width: 200;
+    height: 400;
+}
+
+.mini_result {
+    margin-top: -10px;
+}
